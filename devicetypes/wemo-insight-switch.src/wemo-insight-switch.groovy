@@ -2,7 +2,7 @@
  *  WeMo Insight Switch v1
  *
  *  Author: 
- *    Yannick Van Landeghem (CiscoXL)
+ *    Yannick Van Landeghem (Cisco)
  *
  *    
  *
@@ -23,7 +23,7 @@
  *
  */
 metadata {
- 	definition (name: "WeMo Insight Switch", namespace: "CiscoXL", author: "Yannick Van Landeghem") {
+ 	definition (name: "WeMo Insight Switch", namespace: "Cisco", author: "Smartthings") {
         capability "Actuator"
         capability "Switch"
         capability "Polling"
